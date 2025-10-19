@@ -186,3 +186,4 @@ state.json
 .env
 __pycache__/
 *.pyc
+export_state 2.py
