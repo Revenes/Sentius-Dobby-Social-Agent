@@ -178,3 +178,11 @@ cython_debug/
 
 # Agent state
 state/
+
+# Ignore sensitive folders
+tw_profile/
+state.json
+.venv*
+.env
+__pycache__/
+*.pyc
